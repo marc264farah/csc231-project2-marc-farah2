@@ -1,0 +1,1757 @@
+fileFormatVersion: 2
+guid: b7ff2adf6f926264da689c24d748d773
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6413178572610045704
+    second: EnergyPickupBurst_0
+  - first:
+      213: -341466821187302477
+    second: EnergyPickupBurst_1
+  - first:
+      213: 7287275551500537361
+    second: EnergyPickupBurst_2
+  - first:
+      213: 2147289607625812859
+    second: EnergyPickupBurst_3
+  - first:
+      213: 7465584230694293331
+    second: EnergyPickupBurst_4
+  - first:
+      213: 5129753873619549906
+    second: EnergyPickupBurst_5
+  - first:
+      213: 9086628620000083381
+    second: EnergyPickupBurst_6
+  - first:
+      213: -383448149180454676
+    second: EnergyPickupBurst_7
+  - first:
+      213: 5413059004832289014
+    second: EnergyPickupBurst_8
+  - first:
+      213: -3344361176034817687
+    second: EnergyPickupBurst_9
+  - first:
+      213: 623237280624796648
+    second: EnergyPickupBurst_10
+  - first:
+      213: -4950649329251065749
+    second: EnergyPickupBurst_11
+  - first:
+      213: 8501863673527180986
+    second: EnergyPickupBurst_12
+  - first:
+      213: 8378178906279053857
+    second: EnergyPickupBurst_13
+  - first:
+      213: -7873869392213905912
+    second: EnergyPickupBurst_14
+  - first:
+      213: 8355608631691493852
+    second: EnergyPickupBurst_15
+  - first:
+      213: -1029253277006892769
+    second: EnergyPickupBurst_16
+  - first:
+      213: 5242055240356115825
+    second: EnergyPickupBurst_17
+  - first:
+      213: -800450067765192126
+    second: EnergyPickupBurst_18
+  - first:
+      213: 3336442491322148389
+    second: EnergyPickupBurst_19
+  - first:
+      213: 2782309267974630148
+    second: EnergyPickupBurst_20
+  - first:
+      213: 8620859736191154450
+    second: EnergyPickupBurst_21
+  - first:
+      213: 6245757907355074048
+    second: EnergyPickupBurst_22
+  - first:
+      213: 5624834766900664357
+    second: EnergyPickupBurst_23
+  - first:
+      213: 5914864623358417977
+    second: EnergyPickupBurst_24
+  - first:
+      213: -3937472020611488674
+    second: EnergyPickupBurst_25
+  - first:
+      213: -4954260912920347887
+    second: EnergyPickupBurst_26
+  - first:
+      213: 3697601133929711519
+    second: EnergyPickupBurst_27
+  - first:
+      213: 6704498280775028843
+    second: EnergyPickupBurst_28
+  - first:
+      213: 9045930260381884354
+    second: EnergyPickupBurst_29
+  - first:
+      213: -3675118750599081092
+    second: EnergyPickupBurst_30
+  - first:
+      213: -2593631045750362290
+    second: EnergyPickupBurst_31
+  - first:
+      213: -2732316951997525342
+    second: EnergyPickupBurst_32
+  - first:
+      213: -3508149982294815296
+    second: EnergyPickupBurst_33
+  - first:
+      213: -7774290014511700830
+    second: EnergyPickupBurst_34
+  - first:
+      213: -7343480754978500550
+    second: EnergyPickupBurst_35
+  - first:
+      213: 1561914306276687354
+    second: EnergyPickupBurst_36
+  - first:
+      213: 2088277855070552200
+    second: EnergyPickupBurst_37
+  - first:
+      213: -268246597020111565
+    second: EnergyPickupBurst_38
+  - first:
+      213: -6788800398693940451
+    second: EnergyPickupBurst_39
+  - first:
+      213: -8253013101320679766
+    second: EnergyPickupBurst_40
+  - first:
+      213: 2008830872022043500
+    second: EnergyPickupBurst_41
+  - first:
+      213: 2176584038834933311
+    second: EnergyPickupBurst_42
+  - first:
+      213: -8189762774928535321
+    second: EnergyPickupBurst_43
+  - first:
+      213: 3831016017068956798
+    second: EnergyPickupBurst_44
+  - first:
+      213: -1680604454572550811
+    second: EnergyPickupBurst_45
+  - first:
+      213: -1539719223008385387
+    second: EnergyPickupBurst_46
+  - first:
+      213: -3325775746804422406
+    second: EnergyPickupBurst_47
+  - first:
+      213: 8175772725422571144
+    second: EnergyPickupBurst_48
+  - first:
+      213: -904647918058588361
+    second: EnergyPickupBurst_49
+  - first:
+      213: -4258385517284375921
+    second: EnergyPickupBurst_50
+  - first:
+      213: -262992831347680289
+    second: EnergyPickupBurst_51
+  - first:
+      213: 2814201137129362305
+    second: EnergyPickupBurst_52
+  - first:
+      213: 8094954750552543039
+    second: EnergyPickupBurst_53
+  - first:
+      213: -535908724834224473
+    second: EnergyPickupBurst_54
+  - first:
+      213: -1198472825484111382
+    second: EnergyPickupBurst_55
+  - first:
+      213: -535755271211030665
+    second: EnergyPickupBurst_56
+  - first:
+      213: -1662850956221407508
+    second: EnergyPickupBurst_57
+  - first:
+      213: 3566248520570611580
+    second: EnergyPickupBurst_58
+  - first:
+      213: -159553482969888966
+    second: EnergyPickupBurst_59
+  - first:
+      213: 2608326795832660234
+    second: EnergyPickupBurst_60
+  - first:
+      213: -5475859663261859471
+    second: EnergyPickupBurst_61
+  - first:
+      213: 6060113863825724904
+    second: EnergyPickupBurst_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnergyPickupBurst_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 23
+        width: 311
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807819deeef200950800000000000000
+      internalID: 6413178572610045704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 405
+        width: 547
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb8c8c3cbdd24bf0800000000000000
+      internalID: -341466821187302477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 925
+        width: 31
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e0493218a912560800000000000000
+      internalID: 7287275551500537361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 966
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bac647584bccd10800000000000000
+      internalID: 2147289607625812859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 963
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f8a4fad451b9760800000000000000
+      internalID: 7465584230694293331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 919
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2def64e28fb803740800000000000000
+      internalID: 5129753873619549906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_6
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 927
+        width: 97
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb00d36903a1e70800000000000000
+      internalID: 9086628620000083381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_7
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 23
+        width: 417
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8615e90f7bdaaf0800000000000000
+      internalID: -383448149180454676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 951
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0124b3c7c0f1b40800000000000000
+      internalID: 5413059004832289014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_9
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 951
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96946d5ca317691d0800000000000000
+      internalID: -3344361176034817687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_10
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 907
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3eb62310f26a800800000000000000
+      internalID: 623237280624796648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 943
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e67a2aa2cb4bb0800000000000000
+      internalID: -4950649329251065749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 935
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe926d57ffacf570800000000000000
+      internalID: 8501863673527180986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_13
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 913
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a0f656355454470800000000000000
+      internalID: 8378178906279053857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_14
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 927
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ee44d51856ab290800000000000000
+      internalID: -7873869392213905912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_15
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 919
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1c826d7c515f370800000000000000
+      internalID: 8355608631691493852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 897
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11f818099b57b1f0800000000000000
+      internalID: -1029253277006892769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 881
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175b66ea7758fb840800000000000000
+      internalID: 5242055240356115825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_18
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 883
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a1b6287ea34e4f0800000000000000
+      internalID: -800450067765192126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_19
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 881
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526a6c4c4cc6d4e20800000000000000
+      internalID: 3336442491322148389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_20
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 907
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ba7e4b98fbc9620800000000000000
+      internalID: 2782309267974630148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 23
+        width: 367
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219342a314273a770800000000000000
+      internalID: 8620859736191154450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_22
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 885
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e7cfca9b36da650800000000000000
+      internalID: 6245757907355074048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_23
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 871
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52891693b6d6f0e40800000000000000
+      internalID: 5624834766900664357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 855
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c9dc16902d51250800000000000000
+      internalID: 5914864623358417977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_25
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 853
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54a9621f0a4b59c0800000000000000
+      internalID: -3937472020611488674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_26
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 703
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bb7c0d2fdee3bb0800000000000000
+      internalID: -4954260912920347887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_27
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 665
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9746fcf3a4805330800000000000000
+      internalID: 3697601133929711519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 580
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6010d61aa92b0d50800000000000000
+      internalID: 6704498280775028843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 498
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd409f4a9998d70800000000000000
+      internalID: 9045930260381884354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 495
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c731a2bc7fa5ffcc0800000000000000
+      internalID: -3675118750599081092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 31
+        width: 417
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fef973e42910cd0800000000000000
+      internalID: -2593631045750362290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_32
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 401
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2d866653cd41ad0800000000000000
+      internalID: -2732316951997525342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_33
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 402
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd46869d2c805fc0800000000000000
+      internalID: -3508149982294815296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_34
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 365
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4e928fb6c2c1490800000000000000
+      internalID: -7774290014511700830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30d6982927b61a90800000000000000
+      internalID: -7343480754978500550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 215
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf83349c80da510800000000000000
+      internalID: 1561914306276687354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 245
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8808bcf15ad0bfc10800000000000000
+      internalID: 2088277855070552200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_38
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 188
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33da868242ff64cf0800000000000000
+      internalID: -268246597020111565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_39
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 245
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1341d8810659c1a0800000000000000
+      internalID: -6788800398693940451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_40
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 241
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaec2298f48677d80800000000000000
+      internalID: -8253013101320679766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 237
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b46bce80dc0eb10800000000000000
+      internalID: 2008830872022043500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 223
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e8a8ab6a7c43e10800000000000000
+      internalID: 2176584038834933311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 215
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0daadb52e185e80800000000000000
+      internalID: -8189762774928535321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_44
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 215
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c1a3a15c08a2530800000000000000
+      internalID: 3831016017068956798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_45
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 205
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565934d172b4da8e0800000000000000
+      internalID: -1680604454572550811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 203
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596aeb24681d1aae0800000000000000
+      internalID: -1539719223008385387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_47
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 195
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ec19349878d1d0800000000000000
+      internalID: -3325775746804422406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 157
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eb3270afd267170800000000000000
+      internalID: 8175772725422571144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_49
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 117
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7373255f28b0273f0800000000000000
+      internalID: -904647918058588361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_50
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 113
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82c8951fec27e4c0800000000000000
+      internalID: -4258385517284375921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_51
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 143
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb1c0dc969a95cf0800000000000000
+      internalID: -262992831347680289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_52
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 113
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839811260d0e0720800000000000000
+      internalID: 2814201137129362305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_53
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 127
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f8b8be47e075070800000000000000
+      internalID: 8094954750552543039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_54
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 121
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a63938aad11098f0800000000000000
+      internalID: -535908724834224473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_55
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 95
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae19f04a05b2e5fe0800000000000000
+      internalID: -1198472825484111382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_56
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 94
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7776cec5b6d9098f0800000000000000
+      internalID: -535755271211030665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_57
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 85
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee11009ddd5ce8e0800000000000000
+      internalID: -1662850956221407508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_58
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 111
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77af59722cdd7130800000000000000
+      internalID: 3566248520570611580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_59
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3747ecd3f629cdf0800000000000000
+      internalID: -159553482969888966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_60
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011dbbb663a23420800000000000000
+      internalID: 2608326795832660234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_61
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171036b06a6d104b0800000000000000
+      internalID: -5475859663261859471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyPickupBurst_62
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 73
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e590c78379d91450800000000000000
+      internalID: 6060113863825724904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnergyPickupBurst_0: 6413178572610045704
+      EnergyPickupBurst_1: -341466821187302477
+      EnergyPickupBurst_10: 623237280624796648
+      EnergyPickupBurst_11: -4950649329251065749
+      EnergyPickupBurst_12: 8501863673527180986
+      EnergyPickupBurst_13: 8378178906279053857
+      EnergyPickupBurst_14: -7873869392213905912
+      EnergyPickupBurst_15: 8355608631691493852
+      EnergyPickupBurst_16: -1029253277006892769
+      EnergyPickupBurst_17: 5242055240356115825
+      EnergyPickupBurst_18: -800450067765192126
+      EnergyPickupBurst_19: 3336442491322148389
+      EnergyPickupBurst_2: 7287275551500537361
+      EnergyPickupBurst_20: 2782309267974630148
+      EnergyPickupBurst_21: 8620859736191154450
+      EnergyPickupBurst_22: 6245757907355074048
+      EnergyPickupBurst_23: 5624834766900664357
+      EnergyPickupBurst_24: 5914864623358417977
+      EnergyPickupBurst_25: -3937472020611488674
+      EnergyPickupBurst_26: -4954260912920347887
+      EnergyPickupBurst_27: 3697601133929711519
+      EnergyPickupBurst_28: 6704498280775028843
+      EnergyPickupBurst_29: 9045930260381884354
+      EnergyPickupBurst_3: 2147289607625812859
+      EnergyPickupBurst_30: -3675118750599081092
+      EnergyPickupBurst_31: -2593631045750362290
+      EnergyPickupBurst_32: -2732316951997525342
+      EnergyPickupBurst_33: -3508149982294815296
+      EnergyPickupBurst_34: -7774290014511700830
+      EnergyPickupBurst_35: -7343480754978500550
+      EnergyPickupBurst_36: 1561914306276687354
+      EnergyPickupBurst_37: 2088277855070552200
+      EnergyPickupBurst_38: -268246597020111565
+      EnergyPickupBurst_39: -6788800398693940451
+      EnergyPickupBurst_4: 7465584230694293331
+      EnergyPickupBurst_40: -8253013101320679766
+      EnergyPickupBurst_41: 2008830872022043500
+      EnergyPickupBurst_42: 2176584038834933311
+      EnergyPickupBurst_43: -8189762774928535321
+      EnergyPickupBurst_44: 3831016017068956798
+      EnergyPickupBurst_45: -1680604454572550811
+      EnergyPickupBurst_46: -1539719223008385387
+      EnergyPickupBurst_47: -3325775746804422406
+      EnergyPickupBurst_48: 8175772725422571144
+      EnergyPickupBurst_49: -904647918058588361
+      EnergyPickupBurst_5: 5129753873619549906
+      EnergyPickupBurst_50: -4258385517284375921
+      EnergyPickupBurst_51: -262992831347680289
+      EnergyPickupBurst_52: 2814201137129362305
+      EnergyPickupBurst_53: 8094954750552543039
+      EnergyPickupBurst_54: -535908724834224473
+      EnergyPickupBurst_55: -1198472825484111382
+      EnergyPickupBurst_56: -535755271211030665
+      EnergyPickupBurst_57: -1662850956221407508
+      EnergyPickupBurst_58: 3566248520570611580
+      EnergyPickupBurst_59: -159553482969888966
+      EnergyPickupBurst_6: 9086628620000083381
+      EnergyPickupBurst_60: 2608326795832660234
+      EnergyPickupBurst_61: -5475859663261859471
+      EnergyPickupBurst_62: 6060113863825724904
+      EnergyPickupBurst_7: -383448149180454676
+      EnergyPickupBurst_8: 5413059004832289014
+      EnergyPickupBurst_9: -3344361176034817687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
