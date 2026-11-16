@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: c91b9d27d67363b42a7e154d6a4652f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7133102100514551473
+    second: Subject09_FallClear_0
+  - first:
+      213: 1797611886213556309
+    second: Subject09_FallClear_1
+  - first:
+      213: 849729229043418089
+    second: Subject09_FallClear_2
+  - first:
+      213: 3497199773419170736
+    second: Subject09_FallClear_3
+  - first:
+      213: 533232932747463320
+    second: Subject09_FallClear_4
+  - first:
+      213: 8290704273475361842
+    second: Subject09_FallClear_5
+  - first:
+      213: -7315979365501388869
+    second: Subject09_FallClear_6
+  - first:
+      213: -6623265736656415643
+    second: Subject09_FallClear_7
+  - first:
+      213: 1595168969696903609
+    second: Subject09_FallClear_8
+  - first:
+      213: 4859766399661056766
+    second: Subject09_FallClear_9
+  - first:
+      213: 4449376086958599865
+    second: Subject09_FallClear_10
+  - first:
+      213: 5645916511965645761
+    second: Subject09_FallClear_11
+  - first:
+      213: 7330950727954737691
+    second: Subject09_FallClear_12
+  - first:
+      213: 4535217412626024594
+    second: Subject09_FallClear_13
+  - first:
+      213: -8019262619000375516
+    second: Subject09_FallClear_14
+  - first:
+      213: -2386788097451928657
+    second: Subject09_FallClear_15
+  - first:
+      213: -2820445048816291628
+    second: Subject09_FallClear_16
+  - first:
+      213: 4119995543190586128
+    second: Subject09_FallClear_17
+  - first:
+      213: -4110742639036282999
+    second: Subject09_FallClear_18
+  - first:
+      213: -2642302540343858265
+    second: Subject09_FallClear_19
+  - first:
+      213: -3485261956935754579
+    second: Subject09_FallClear_20
+  - first:
+      213: -8281104948341986491
+    second: Subject09_FallClear_21
+  - first:
+      213: 6048750952275846853
+    second: Subject09_FallClear_22
+  - first:
+      213: -7152059135652152171
+    second: Subject09_FallClear_23
+  - first:
+      213: -1097610596303302391
+    second: Subject09_FallClear_24
+  - first:
+      213: -324868942999603390
+    second: Subject09_FallClear_25
+  - first:
+      213: 8945086690076596459
+    second: Subject09_FallClear_26
+  - first:
+      213: -8815496659092546926
+    second: Subject09_FallClear_27
+  - first:
+      213: 2522835662854544040
+    second: Subject09_FallClear_28
+  - first:
+      213: -7748465999898298133
+    second: Subject09_FallClear_29
+  - first:
+      213: 7191563809521581059
+    second: Subject09_FallClear_30
+  - first:
+      213: -839659583796087708
+    second: Subject09_FallClear_31
+  - first:
+      213: 4877790557785565277
+    second: Subject09_FallClear_32
+  - first:
+      213: -1239540007717106516
+    second: Subject09_FallClear_33
+  - first:
+      213: 82737746913542240
+    second: Subject09_FallClear_34
+  - first:
+      213: 3545529589185064943
+    second: Subject09_FallClear_35
+  - first:
+      213: -7561588531310401126
+    second: Subject09_FallClear_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 163
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Subject09_FallClear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 724
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc416a6b9f14a184295d3a39feff775f
+      internalID: -7133102100514551473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_FallClear_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 724
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1492f2c8f7c91914f97f4ae56b0ff282
+      internalID: 1797611886213556309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_FallClear_2
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 724
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089ae6efba0c4242a891f4f771e45e8
+      internalID: 849729229043418089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 651e50899fe6d744a9a52f9babdda5a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Subject09_FallClear_0: -7133102100514551473
+      Subject09_FallClear_1: 1797611886213556309
+      Subject09_FallClear_10: 4449376086958599865
+      Subject09_FallClear_11: 5645916511965645761
+      Subject09_FallClear_12: 7330950727954737691
+      Subject09_FallClear_13: 4535217412626024594
+      Subject09_FallClear_14: -8019262619000375516
+      Subject09_FallClear_15: -2386788097451928657
+      Subject09_FallClear_16: -2820445048816291628
+      Subject09_FallClear_17: 4119995543190586128
+      Subject09_FallClear_18: -4110742639036282999
+      Subject09_FallClear_19: -2642302540343858265
+      Subject09_FallClear_2: 849729229043418089
+      Subject09_FallClear_20: -3485261956935754579
+      Subject09_FallClear_21: -8281104948341986491
+      Subject09_FallClear_22: 6048750952275846853
+      Subject09_FallClear_23: -7152059135652152171
+      Subject09_FallClear_24: -1097610596303302391
+      Subject09_FallClear_25: -324868942999603390
+      Subject09_FallClear_26: 8945086690076596459
+      Subject09_FallClear_27: -8815496659092546926
+      Subject09_FallClear_28: 2522835662854544040
+      Subject09_FallClear_29: -7748465999898298133
+      Subject09_FallClear_3: 3497199773419170736
+      Subject09_FallClear_30: 7191563809521581059
+      Subject09_FallClear_31: -839659583796087708
+      Subject09_FallClear_32: 4877790557785565277
+      Subject09_FallClear_33: -1239540007717106516
+      Subject09_FallClear_34: 82737746913542240
+      Subject09_FallClear_35: 3545529589185064943
+      Subject09_FallClear_36: -7561588531310401126
+      Subject09_FallClear_4: 533232932747463320
+      Subject09_FallClear_5: 8290704273475361842
+      Subject09_FallClear_6: -7315979365501388869
+      Subject09_FallClear_7: -6623265736656415643
+      Subject09_FallClear_8: 1595168969696903609
+      Subject09_FallClear_9: 4859766399661056766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 24e5699ceeafcd04ea10aebcf1114aab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3274414371846817930
+    second: Subject09_Poses_0
+  - first:
+      213: -8519124514940320055
+    second: Subject09_Poses_1
+  - first:
+      213: 421203615953458811
+    second: Subject09_Poses_2
+  - first:
+      213: 4084932520265837726
+    second: Subject09_Poses_3
+  - first:
+      213: -7208121039595889544
+    second: Subject09_Poses_4
+  - first:
+      213: 7539116637457733683
+    second: Subject09_Poses_5
+  - first:
+      213: -5186025255104601538
+    second: Subject09_Poses_6
+  - first:
+      213: -7453522836373427298
+    second: Subject09_Poses_7
+  - first:
+      213: -3310189744141577324
+    second: Subject09_Poses_8
+  - first:
+      213: 2124707537601760912
+    second: Subject09_Poses_9
+  - first:
+      213: 7219074350821533016
+    second: Subject09_Poses_10
+  - first:
+      213: 602218459128120627
+    second: Subject09_Poses_11
+  - first:
+      213: -6692660834443974807
+    second: Subject09_Poses_12
+  - first:
+      213: 6767213330582894177
+    second: Subject09_Poses_13
+  - first:
+      213: 1288982297156129002
+    second: Subject09_Poses_14
+  - first:
+      213: 4185844631984421944
+    second: Subject09_Poses_15
+  - first:
+      213: 5932702793840096132
+    second: Subject09_Poses_16
+  - first:
+      213: -5494903184487328973
+    second: Subject09_Poses_17
+  - first:
+      213: 4646356340772606231
+    second: Subject09_Poses_18
+  - first:
+      213: -6878784327086865468
+    second: Subject09_Poses_19
+  - first:
+      213: -6139342255115098732
+    second: Subject09_Poses_20
+  - first:
+      213: -818481095818795492
+    second: Subject09_Poses_21
+  - first:
+      213: 5790599732020975654
+    second: Subject09_Poses_22
+  - first:
+      213: 8987037267620013484
+    second: Subject09_Poses_23
+  - first:
+      213: -4971104973439146303
+    second: Subject09_Poses_24
+  - first:
+      213: 6242769147423946360
+    second: Subject09_Poses_25
+  - first:
+      213: 1016537135888920391
+    second: Subject09_Poses_26
+  - first:
+      213: -7573581399362328002
+    second: Subject09_Poses_27
+  - first:
+      213: -6809555120689120773
+    second: Subject09_Poses_28
+  - first:
+      213: 1619665094361097732
+    second: Subject09_Poses_29
+  - first:
+      213: 7109403913996455769
+    second: Subject09_Poses_30
+  - first:
+      213: -998304168083968634
+    second: Subject09_Poses_31
+  - first:
+      213: -5085507777124246402
+    second: Subject09_Poses_32
+  - first:
+      213: -1176411307907482057
+    second: Subject09_Poses_33
+  - first:
+      213: -5823324356069046200
+    second: Subject09_Poses_34
+  - first:
+      213: 8942314002022939216
+    second: Subject09_Poses_35
+  - first:
+      213: 7988668343307750906
+    second: Subject09_Poses_36
+  - first:
+      213: 6757634103282153784
+    second: Subject09_Poses_37
+  - first:
+      213: 1399143234504379842
+    second: Subject09_Poses_38
+  - first:
+      213: 4624361738856884073
+    second: Subject09_Poses_39
+  - first:
+      213: 2301564538030943581
+    second: Subject09_Poses_40
+  - first:
+      213: -2771793762482948780
+    second: Subject09_Poses_41
+  - first:
+      213: 1828410003284045275
+    second: Subject09_Poses_42
+  - first:
+      213: -552615096447670149
+    second: Subject09_Poses_43
+  - first:
+      213: -7984467903122887450
+    second: Subject09_Poses_44
+  - first:
+      213: -3148351307040937189
+    second: Subject09_Poses_45
+  - first:
+      213: -1894404788062450699
+    second: Subject09_Poses_46
+  - first:
+      213: -8152294611156072267
+    second: Subject09_Poses_47
+  - first:
+      213: 67113652995632779
+    second: Subject09_Poses_48
+  - first:
+      213: -1284688303996831024
+    second: Subject09_Poses_49
+  - first:
+      213: 5205702698139960225
+    second: Subject09_Poses_50
+  - first:
+      213: 2033813306729164484
+    second: Subject09_Poses_51
+  - first:
+      213: 7533759565867359230
+    second: Subject09_Poses_52
+  - first:
+      213: -8942192464486625161
+    second: Subject09_Poses_53
+  - first:
+      213: 1593130554518055013
+    second: Subject09_Poses_54
+  - first:
+      213: 7443630113864018836
+    second: Subject09_Poses_55
+  - first:
+      213: -2083437865808671008
+    second: Subject09_Poses_56
+  - first:
+      213: -2608623005378194128
+    second: Subject09_Poses_57
+  - first:
+      213: 4824587535517993327
+    second: Subject09_Poses_58
+  - first:
+      213: 5614994432631758514
+    second: Subject09_Poses_59
+  - first:
+      213: -1370913399484418709
+    second: Subject09_Poses_60
+  - first:
+      213: 4268222229379408113
+    second: Subject09_Poses_61
+  - first:
+      213: 447967856424232274
+    second: Subject09_Poses_62
+  - first:
+      213: 4750005986389544263
+    second: Subject09_Poses_63
+  - first:
+      213: 1784983873998812078
+    second: Subject09_Poses_64
+  - first:
+      213: 1955535451959955298
+    second: Subject09_Poses_65
+  - first:
+      213: -8390550200091910632
+    second: Subject09_Poses_66
+  - first:
+      213: 581344639552353701
+    second: Subject09_Poses_67
+  - first:
+      213: -7301376201107897488
+    second: Subject09_Poses_68
+  - first:
+      213: 8747058794241844662
+    second: Subject09_Poses_69
+  - first:
+      213: -8855601119985909301
+    second: Subject09_Poses_70
+  - first:
+      213: -3831260972985479432
+    second: Subject09_Poses_71
+  - first:
+      213: 5469009433355641612
+    second: Subject09_Poses_72
+  - first:
+      213: 5031829578042241086
+    second: Subject09_Poses_73
+  - first:
+      213: -8832968136521187891
+    second: Subject09_Poses_74
+  - first:
+      213: -1158314971783549571
+    second: Subject09_Poses_75
+  - first:
+      213: -6895852251018250257
+    second: Subject09_Poses_76
+  - first:
+      213: -1977892755916800560
+    second: Subject09_Poses_77
+  - first:
+      213: 1258254154625823311
+    second: Subject09_Poses_78
+  - first:
+      213: -6910135234333801365
+    second: Subject09_Poses_79
+  - first:
+      213: 5754009259769859392
+    second: Subject09_Poses_80
+  - first:
+      213: -2443702344852689283
+    second: Subject09_Poses_81
+  - first:
+      213: -341658193305167004
+    second: Subject09_Poses_82
+  - first:
+      213: 1910119225640094450
+    second: Subject09_Poses_83
+  - first:
+      213: 3836327091206799283
+    second: Subject09_Poses_84
+  - first:
+      213: 4621089853804179769
+    second: Subject09_Poses_85
+  - first:
+      213: -3850487886743633611
+    second: Subject09_Poses_86
+  - first:
+      213: 1857941659580109652
+    second: Subject09_Poses_87
+  - first:
+      213: -4209584425532428122
+    second: Subject09_Poses_88
+  - first:
+      213: 9019403832561257643
+    second: Subject09_Poses_89
+  - first:
+      213: -4158909474420640093
+    second: Subject09_Poses_90
+  - first:
+      213: -1972688889452474111
+    second: Subject09_Poses_91
+  - first:
+      213: 4236777216053384679
+    second: Subject09_Poses_92
+  - first:
+      213: -4712702458827066998
+    second: Subject09_Poses_93
+  - first:
+      213: -6003473394541232071
+    second: Subject09_Poses_94
+  - first:
+      213: 659985483974304593
+    second: Subject09_Poses_95
+  - first:
+      213: 1049490115677901587
+    second: Subject09_Poses_96
+  - first:
+      213: -1789730893744236277
+    second: Subject09_Poses_97
+  - first:
+      213: 8144660862789745594
+    second: Subject09_Poses_98
+  - first:
+      213: -4005491331932423063
+    second: Subject09_Poses_99
+  - first:
+      213: -3506906455690582461
+    second: Subject09_Poses_100
+  - first:
+      213: 2649115249847083342
+    second: Subject09_Poses_101
+  - first:
+      213: 3115630444201005170
+    second: Subject09_Poses_102
+  - first:
+      213: 4230792369113844470
+    second: Subject09_Poses_103
+  - first:
+      213: 495768495893034733
+    second: Subject09_Poses_104
+  - first:
+      213: 1644409407759570
+    second: Subject09_Poses_105
+  - first:
+      213: 7386223997324925850
+    second: Subject09_Poses_106
+  - first:
+      213: -5119746959190031743
+    second: Subject09_Poses_107
+  - first:
+      213: -6536952881103507565
+    second: Subject09_Poses_108
+  - first:
+      213: 1394721056664315623
+    second: Subject09_Poses_109
+  - first:
+      213: -411671623810418485
+    second: Subject09_Poses_110
+  - first:
+      213: -2641103811261830428
+    second: Subject09_Poses_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Subject09_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 443
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488f97beaa7ede2488af226ac5f8dd1e
+      internalID: 1220212714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Run
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 443
+        width: 444
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9604d973cec2234082d671ecab26933
+      internalID: 1746153259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Jump
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 443
+        width: 443
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d6d0363ffe9a4d983542ef84ce458
+      internalID: -1639402750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Fall
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 443
+        width: 444
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4856e977d2a2645a071a481ed0af4a
+      internalID: -612428648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Hurt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740db1c1e6d1d0d4a98fad739c28de7e
+      internalID: -1424661850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Death
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 444
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75812ec9db5b04ea9c8f660087751e
+      internalID: -483035141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Attack
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772020de94968c647b347630c0cc548c
+      internalID: -1671611131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Phase
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 444
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeaaa786d43b614da069ad9a2e57ca0
+      internalID: 889404406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 891396b166bcaab42825f0d2335d7a95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Subject09_Attack: -1671611131
+      Subject09_Death: -483035141
+      Subject09_Fall: -612428648
+      Subject09_Hurt: -1424661850
+      Subject09_Idle: 1220212714
+      Subject09_Jump: -1639402750
+      Subject09_Phase: 889404406
+      Subject09_Run: 1746153259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

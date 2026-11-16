@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 41394c492c2608a4aa1c99a519142ee5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2677721313827834852
+    second: Subject09_IdleAttackMatched_0
+  - first:
+      213: -8363204442656506282
+    second: Subject09_IdleAttackMatched_1
+  - first:
+      213: -7504545248431372537
+    second: Subject09_IdleAttackMatched_2
+  - first:
+      213: 5016924645027686386
+    second: Subject09_IdleAttackMatched_3
+  - first:
+      213: 2838043027780266574
+    second: Subject09_IdleAttackMatched_4
+  - first:
+      213: -4347158878247298725
+    second: Subject09_IdleAttackMatched_5
+  - first:
+      213: 8510261217836565228
+    second: Subject09_IdleAttackMatched_6
+  - first:
+      213: -544691915649267673
+    second: Subject09_IdleAttackMatched_7
+  - first:
+      213: 5880240613777742043
+    second: Subject09_IdleAttackMatched_8
+  - first:
+      213: 1259364073524249520
+    second: Subject09_IdleAttackMatched_9
+  - first:
+      213: -297071222858403433
+    second: Subject09_IdleAttackMatched_10
+  - first:
+      213: 1915008112639340947
+    second: Subject09_IdleAttackMatched_11
+  - first:
+      213: 2306287974903629814
+    second: Subject09_IdleAttackMatched_12
+  - first:
+      213: 3667478733683425856
+    second: Subject09_IdleAttackMatched_13
+  - first:
+      213: -2179626877802766193
+    second: Subject09_IdleAttackMatched_14
+  - first:
+      213: 5804627890066106578
+    second: Subject09_IdleAttackMatched_15
+  - first:
+      213: -2943311536778768562
+    second: Subject09_IdleAttackMatched_16
+  - first:
+      213: 1867677019620637337
+    second: Subject09_IdleAttackMatched_17
+  - first:
+      213: 6170110408265636285
+    second: Subject09_IdleAttackMatched_18
+  - first:
+      213: 4494866233909210193
+    second: Subject09_IdleAttackMatched_19
+  - first:
+      213: -4454968489690837631
+    second: Subject09_IdleAttackMatched_20
+  - first:
+      213: 8668181720933483175
+    second: Subject09_IdleAttackMatched_21
+  - first:
+      213: 8768511811854884044
+    second: Subject09_IdleAttackMatched_22
+  - first:
+      213: -5552872681328030562
+    second: Subject09_IdleAttackMatched_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 142
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Subject09_IdleAttackMatched_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621.5
+        width: 632.5
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14bcc9f6a2d6dad0800000000000000
+      internalID: -2677721313827834852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_IdleAttackMatched_1
+      rect:
+        serializedVersion: 2
+        x: 632.5
+        y: 621.5
+        width: 632.5
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e7d7b9eddefeb80800000000000000
+      internalID: -8363204442656506282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_IdleAttackMatched_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 632.5
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707076a7bdf7ad790800000000000000
+      internalID: -7504545248431372537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_IdleAttackMatched_3
+      rect:
+        serializedVersion: 2
+        x: 632.5
+        y: 0
+        width: 632.5
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f727c34262bf9540800000000000000
+      internalID: 5016924645027686386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Subject09_IdleAttackMatched_0: -2677721313827834852
+      Subject09_IdleAttackMatched_1: -8363204442656506282
+      Subject09_IdleAttackMatched_10: -297071222858403433
+      Subject09_IdleAttackMatched_11: 1915008112639340947
+      Subject09_IdleAttackMatched_12: 2306287974903629814
+      Subject09_IdleAttackMatched_13: 3667478733683425856
+      Subject09_IdleAttackMatched_14: -2179626877802766193
+      Subject09_IdleAttackMatched_15: 5804627890066106578
+      Subject09_IdleAttackMatched_16: -2943311536778768562
+      Subject09_IdleAttackMatched_17: 1867677019620637337
+      Subject09_IdleAttackMatched_18: 6170110408265636285
+      Subject09_IdleAttackMatched_19: 4494866233909210193
+      Subject09_IdleAttackMatched_2: -7504545248431372537
+      Subject09_IdleAttackMatched_20: -4454968489690837631
+      Subject09_IdleAttackMatched_21: 8668181720933483175
+      Subject09_IdleAttackMatched_22: 8768511811854884044
+      Subject09_IdleAttackMatched_23: -5552872681328030562
+      Subject09_IdleAttackMatched_3: 5016924645027686386
+      Subject09_IdleAttackMatched_4: 2838043027780266574
+      Subject09_IdleAttackMatched_5: -4347158878247298725
+      Subject09_IdleAttackMatched_6: 8510261217836565228
+      Subject09_IdleAttackMatched_7: -544691915649267673
+      Subject09_IdleAttackMatched_8: 5880240613777742043
+      Subject09_IdleAttackMatched_9: 1259364073524249520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
