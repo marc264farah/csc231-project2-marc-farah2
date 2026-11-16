@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: 4a874ffebc147294d96df7aa0d2dc89d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7519721648224323697
+    second: EnergyCell_Art_0
+  - first:
+      213: 8599240425059003054
+    second: EnergyCell_Art_1
+  - first:
+      213: -8722505071919894227
+    second: EnergyCell_Art_2
+  - first:
+      213: 960402898128381672
+    second: EnergyCell_Art_3
+  - first:
+      213: -8325235392105223116
+    second: EnergyCell_Art_4
+  - first:
+      213: 2512635153826185117
+    second: EnergyCell_Art_5
+  - first:
+      213: -1975433506452493876
+    second: EnergyCell_Art_6
+  - first:
+      213: -5404972763936864751
+    second: EnergyCell_Art_7
+  - first:
+      213: -5129036848443660530
+    second: EnergyCell_Art_8
+  - first:
+      213: 5485509756846841151
+    second: EnergyCell_Art_9
+  - first:
+      213: -2099375306409387816
+    second: EnergyCell_Art_10
+  - first:
+      213: -4753931629121305276
+    second: EnergyCell_Art_11
+  - first:
+      213: 7454466059172937784
+    second: EnergyCell_Art_12
+  - first:
+      213: -3231796481828594082
+    second: EnergyCell_Art_13
+  - first:
+      213: -259690190826084553
+    second: EnergyCell_Art_14
+  - first:
+      213: 5893752494370833326
+    second: EnergyCell_Art_15
+  - first:
+      213: -7202371905740285209
+    second: EnergyCell_Art_16
+  - first:
+      213: -6687142124960716971
+    second: EnergyCell_Art_17
+  - first:
+      213: -7088037541168738219
+    second: EnergyCell_Art_18
+  - first:
+      213: -1778129837510554709
+    second: EnergyCell_Art_19
+  - first:
+      213: -7901329343342163671
+    second: EnergyCell_Art_20
+  - first:
+      213: 1640644133238019293
+    second: EnergyCell_Art_21
+  - first:
+      213: -8596400115303670702
+    second: EnergyCell_Art_22
+  - first:
+      213: -6171514630213218221
+    second: EnergyCell_Art_23
+  - first:
+      213: 2687190632920577718
+    second: EnergyCell_Art_24
+  - first:
+      213: 3078895248674763715
+    second: EnergyCell_Art_25
+  - first:
+      213: -3103579630698780186
+    second: EnergyCell_Art_26
+  - first:
+      213: -4848196933567712602
+    second: EnergyCell_Art_27
+  - first:
+      213: -5651302386504234106
+    second: EnergyCell_Art_28
+  - first:
+      213: -1633212039884421072
+    second: EnergyCell_Art_29
+  - first:
+      213: -8469098705415964088
+    second: EnergyCell_Art_30
+  - first:
+      213: 8266801020917655962
+    second: EnergyCell_Art_31
+  - first:
+      213: 8487517925141049391
+    second: EnergyCell_Art_32
+  - first:
+      213: 149592217485490617
+    second: EnergyCell_Art_33
+  - first:
+      213: 7808710177766801910
+    second: EnergyCell_Art_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1024
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnergyCell_Art_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 103
+        width: 393
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8736cb800594a790800000000000000
+      internalID: -7519721648224323697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 639
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa22d91b93a65770800000000000000
+      internalID: 8599240425059003054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 719
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21fba4d9df63f680800000000000000
+      internalID: -8722505071919894227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 815
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6a230f859045d00800000000000000
+      internalID: 960402898128381672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 1112
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cee061582d67c80800000000000000
+      internalID: -8325235392105223116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_5
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 861
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ff7f12c5caed220800000000000000
+      internalID: 2512635153826185117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 735
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9ae7231b9d594e0800000000000000
+      internalID: -1975433506452493876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_7
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 607
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116c1e078edadf4b0800000000000000
+      internalID: -5404972763936864751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_8
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 581
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0760a0492002d8b0800000000000000
+      internalID: -5129036848443660530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_9
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 679
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d9bc47f02702c40800000000000000
+      internalID: 5485509756846841151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_10
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 575
+        width: 143
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8dd3328458dd2e0800000000000000
+      internalID: -2099375306409387816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 543
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4450bb7ee54a60eb0800000000000000
+      internalID: -4753931629121305276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_12
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 551
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8308537a265937760800000000000000
+      internalID: 7454466059172937784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 471
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5edf3af83a5623d0800000000000000
+      internalID: -3231796481828594082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_14
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 478
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7376828b525656cf0800000000000000
+      internalID: -259690190826084553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 445
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3cb0dcaa0dac150800000000000000
+      internalID: 5893752494370833326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_16
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 447
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ead81a59e80c0c90800000000000000
+      internalID: -7202371905740285209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_17
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 431
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5576a27daaf7233a0800000000000000
+      internalID: -6687142124960716971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_18
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 397
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550110c096b32ad90800000000000000
+      internalID: -7088037541168738219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 399
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab09ae6550d257e0800000000000000
+      internalID: -1778129837510554709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 403
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92948b443d6d85290800000000000000
+      internalID: -7901329343342163671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 373
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd41b7c852db4c610800000000000000
+      internalID: 1640644133238019293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 325
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c923c04a373b880800000000000000
+      internalID: -8596400115303670702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_23
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 320
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d30454206a5aa0800000000000000
+      internalID: -6171514630213218221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_24
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 320
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6fcfea4a1da4520800000000000000
+      internalID: 2687190632920577718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_25
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 295
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b5ed7aee6aba20800000000000000
+      internalID: 3078895248674763715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 263
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9af04f4cedde4d0800000000000000
+      internalID: -3103579630698780186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_27
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 268
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2fe85639eb7bcb0800000000000000
+      internalID: -4848196933567712602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_28
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 231
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b091edb6a8291b0800000000000000
+      internalID: -5651302386504234106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_29
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 225
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0384cc78d4aa559e0800000000000000
+      internalID: -1633212039884421072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 205
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84af5ff3997b77a80800000000000000
+      internalID: -8469098705415964088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_31
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 214
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9922a8aab399b270800000000000000
+      internalID: 8266801020917655962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_32
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 150
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20fac88598b9c570800000000000000
+      internalID: 8487517925141049391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_33
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 159
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9b2684455731200800000000000000
+      internalID: 149592217485490617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyCell_Art_34
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 27
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f184cbc88c1e5c60800000000000000
+      internalID: 7808710177766801910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnergyCell_Art_0: -7519721648224323697
+      EnergyCell_Art_1: 8599240425059003054
+      EnergyCell_Art_10: -2099375306409387816
+      EnergyCell_Art_11: -4753931629121305276
+      EnergyCell_Art_12: 7454466059172937784
+      EnergyCell_Art_13: -3231796481828594082
+      EnergyCell_Art_14: -259690190826084553
+      EnergyCell_Art_15: 5893752494370833326
+      EnergyCell_Art_16: -7202371905740285209
+      EnergyCell_Art_17: -6687142124960716971
+      EnergyCell_Art_18: -7088037541168738219
+      EnergyCell_Art_19: -1778129837510554709
+      EnergyCell_Art_2: -8722505071919894227
+      EnergyCell_Art_20: -7901329343342163671
+      EnergyCell_Art_21: 1640644133238019293
+      EnergyCell_Art_22: -8596400115303670702
+      EnergyCell_Art_23: -6171514630213218221
+      EnergyCell_Art_24: 2687190632920577718
+      EnergyCell_Art_25: 3078895248674763715
+      EnergyCell_Art_26: -3103579630698780186
+      EnergyCell_Art_27: -4848196933567712602
+      EnergyCell_Art_28: -5651302386504234106
+      EnergyCell_Art_29: -1633212039884421072
+      EnergyCell_Art_3: 960402898128381672
+      EnergyCell_Art_30: -8469098705415964088
+      EnergyCell_Art_31: 8266801020917655962
+      EnergyCell_Art_32: 8487517925141049391
+      EnergyCell_Art_33: 149592217485490617
+      EnergyCell_Art_34: 7808710177766801910
+      EnergyCell_Art_4: -8325235392105223116
+      EnergyCell_Art_5: 2512635153826185117
+      EnergyCell_Art_6: -1975433506452493876
+      EnergyCell_Art_7: -5404972763936864751
+      EnergyCell_Art_8: -5129036848443660530
+      EnergyCell_Art_9: 5485509756846841151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

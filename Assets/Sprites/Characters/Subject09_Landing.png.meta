@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 57c667ff77ea2e846be7953e2a177baf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1626631303751481568
+    second: Subject09_Landing_0
+  - first:
+      213: 6371327862647805630
+    second: Subject09_Landing_1
+  - first:
+      213: -383282794062774716
+    second: Subject09_Landing_2
+  - first:
+      213: 3577455375276889876
+    second: Subject09_Landing_3
+  - first:
+      213: 1588691969332769645
+    second: Subject09_Landing_4
+  - first:
+      213: -5191210078720197490
+    second: Subject09_Landing_5
+  - first:
+      213: 8355391846084629089
+    second: Subject09_Landing_6
+  - first:
+      213: -4513606025090125432
+    second: Subject09_Landing_7
+  - first:
+      213: -2260325103330615221
+    second: Subject09_Landing_8
+  - first:
+      213: 3179122279595439520
+    second: Subject09_Landing_9
+  - first:
+      213: -5063816274130195274
+    second: Subject09_Landing_10
+  - first:
+      213: -4989459019119472098
+    second: Subject09_Landing_11
+  - first:
+      213: -2602338123127118845
+    second: Subject09_Landing_12
+  - first:
+      213: 3261313619217568730
+    second: Subject09_Landing_13
+  - first:
+      213: 3819167309274825661
+    second: Subject09_Landing_14
+  - first:
+      213: 3779633014595309261
+    second: Subject09_Landing_15
+  - first:
+      213: -3665041980530808445
+    second: Subject09_Landing_16
+  - first:
+      213: -3370099376873244279
+    second: Subject09_Landing_17
+  - first:
+      213: 492450933453601148
+    second: Subject09_Landing_18
+  - first:
+      213: 5536145088619286483
+    second: Subject09_Landing_19
+  - first:
+      213: -8316508379403885747
+    second: Subject09_Landing_20
+  - first:
+      213: 797961257136461852
+    second: Subject09_Landing_21
+  - first:
+      213: 1150821407034040852
+    second: Subject09_Landing_22
+  - first:
+      213: -2312429183621230751
+    second: Subject09_Landing_23
+  - first:
+      213: 5923194686117228865
+    second: Subject09_Landing_24
+  - first:
+      213: 1146345095727105670
+    second: Subject09_Landing_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 142
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Subject09_Landing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621.5
+        width: 632.5
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e833a07d84f29610800000000000000
+      internalID: 1626631303751481568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Landing_1
+      rect:
+        serializedVersion: 2
+        x: 632.5
+        y: 621.5
+        width: 632.5
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6dba03fe08b6850800000000000000
+      internalID: 6371327862647805630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Landing_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 632.5
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7e5b545e4eaaf0800000000000000
+      internalID: -383282794062774716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_Landing_3
+      rect:
+        serializedVersion: 2
+        x: 632.5
+        y: 0
+        width: 632.5
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417d03ba5bca5a130800000000000000
+      internalID: 3577455375276889876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Subject09_Landing_0: 1626631303751481568
+      Subject09_Landing_1: 6371327862647805630
+      Subject09_Landing_10: -5063816274130195274
+      Subject09_Landing_11: -4989459019119472098
+      Subject09_Landing_12: -2602338123127118845
+      Subject09_Landing_13: 3261313619217568730
+      Subject09_Landing_14: 3819167309274825661
+      Subject09_Landing_15: 3779633014595309261
+      Subject09_Landing_16: -3665041980530808445
+      Subject09_Landing_17: -3370099376873244279
+      Subject09_Landing_18: 492450933453601148
+      Subject09_Landing_19: 5536145088619286483
+      Subject09_Landing_2: -383282794062774716
+      Subject09_Landing_20: -8316508379403885747
+      Subject09_Landing_21: 797961257136461852
+      Subject09_Landing_22: 1150821407034040852
+      Subject09_Landing_23: -2312429183621230751
+      Subject09_Landing_24: 5923194686117228865
+      Subject09_Landing_25: 1146345095727105670
+      Subject09_Landing_3: 3577455375276889876
+      Subject09_Landing_4: 1588691969332769645
+      Subject09_Landing_5: -5191210078720197490
+      Subject09_Landing_6: 8355391846084629089
+      Subject09_Landing_7: -4513606025090125432
+      Subject09_Landing_8: -2260325103330615221
+      Subject09_Landing_9: 3179122279595439520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
