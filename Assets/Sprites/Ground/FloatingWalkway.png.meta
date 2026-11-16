@@ -1,0 +1,2485 @@
+fileFormatVersion: 2
+guid: f2923106df106c74dbc7af79600b6792
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1006042979919343264
+    second: FloatingWalkway_0
+  - first:
+      213: -5539146274302302898
+    second: FloatingWalkway_1
+  - first:
+      213: -1195207366056906063
+    second: FloatingWalkway_2
+  - first:
+      213: -4752201213373362269
+    second: FloatingWalkway_3
+  - first:
+      213: 8767706422542149065
+    second: FloatingWalkway_4
+  - first:
+      213: -1549872451776600109
+    second: FloatingWalkway_5
+  - first:
+      213: 4839385226339179630
+    second: FloatingWalkway_6
+  - first:
+      213: -3319111901170766340
+    second: FloatingWalkway_7
+  - first:
+      213: -1273711081064171753
+    second: FloatingWalkway_8
+  - first:
+      213: -3198431793366989212
+    second: FloatingWalkway_9
+  - first:
+      213: -3792477506928176913
+    second: FloatingWalkway_10
+  - first:
+      213: 7774592259999884597
+    second: FloatingWalkway_11
+  - first:
+      213: -9122051988766926077
+    second: FloatingWalkway_12
+  - first:
+      213: -2648609101258898857
+    second: FloatingWalkway_13
+  - first:
+      213: 1336685586103383103
+    second: FloatingWalkway_14
+  - first:
+      213: -5659360202764291581
+    second: FloatingWalkway_15
+  - first:
+      213: 6445109608955792715
+    second: FloatingWalkway_16
+  - first:
+      213: -7928621944503643573
+    second: FloatingWalkway_17
+  - first:
+      213: -7492712371685376574
+    second: FloatingWalkway_18
+  - first:
+      213: -7338011195448513986
+    second: FloatingWalkway_19
+  - first:
+      213: 2916607325078723619
+    second: FloatingWalkway_20
+  - first:
+      213: 4590316526797838195
+    second: FloatingWalkway_21
+  - first:
+      213: -8239652440739815916
+    second: FloatingWalkway_22
+  - first:
+      213: 9047216738680838415
+    second: FloatingWalkway_23
+  - first:
+      213: 439628141936807353
+    second: FloatingWalkway_24
+  - first:
+      213: -1677351748509158737
+    second: FloatingWalkway_25
+  - first:
+      213: 7379156207565161015
+    second: FloatingWalkway_26
+  - first:
+      213: -3636061909907762466
+    second: FloatingWalkway_27
+  - first:
+      213: -1793545396673231218
+    second: FloatingWalkway_28
+  - first:
+      213: 3252615257149717360
+    second: FloatingWalkway_29
+  - first:
+      213: -5293363192769440363
+    second: FloatingWalkway_30
+  - first:
+      213: -7556178122285774877
+    second: FloatingWalkway_31
+  - first:
+      213: 8962340194916057235
+    second: FloatingWalkway_32
+  - first:
+      213: -1240726836131617862
+    second: FloatingWalkway_33
+  - first:
+      213: -5215998612202098202
+    second: FloatingWalkway_34
+  - first:
+      213: 6282503948900195124
+    second: FloatingWalkway_35
+  - first:
+      213: -4142250913645900122
+    second: FloatingWalkway_36
+  - first:
+      213: 3875537798032200340
+    second: FloatingWalkway_37
+  - first:
+      213: 3267285337533665634
+    second: FloatingWalkway_38
+  - first:
+      213: 7817716762244717476
+    second: FloatingWalkway_39
+  - first:
+      213: 1302033988144257866
+    second: FloatingWalkway_40
+  - first:
+      213: 1958613455751669722
+    second: FloatingWalkway_41
+  - first:
+      213: 2648405152101101286
+    second: FloatingWalkway_42
+  - first:
+      213: 7039336166987818245
+    second: FloatingWalkway_43
+  - first:
+      213: 2320968303846000174
+    second: FloatingWalkway_44
+  - first:
+      213: 7883179797786592367
+    second: FloatingWalkway_45
+  - first:
+      213: -1695840845359453807
+    second: FloatingWalkway_46
+  - first:
+      213: -3868669949239675252
+    second: FloatingWalkway_47
+  - first:
+      213: 9117607372213393894
+    second: FloatingWalkway_48
+  - first:
+      213: 8940794387710796233
+    second: FloatingWalkway_49
+  - first:
+      213: -4561358329305781452
+    second: FloatingWalkway_50
+  - first:
+      213: 2517141163073742808
+    second: FloatingWalkway_51
+  - first:
+      213: -792315289361678652
+    second: FloatingWalkway_52
+  - first:
+      213: -4151672861120439830
+    second: FloatingWalkway_53
+  - first:
+      213: 3240942846667375500
+    second: FloatingWalkway_54
+  - first:
+      213: -8597015460346588831
+    second: FloatingWalkway_55
+  - first:
+      213: 2379192389387319192
+    second: FloatingWalkway_56
+  - first:
+      213: -5632803508218011946
+    second: FloatingWalkway_57
+  - first:
+      213: 42735647474706718
+    second: FloatingWalkway_58
+  - first:
+      213: 5870559131282341053
+    second: FloatingWalkway_59
+  - first:
+      213: -8301612424928824401
+    second: FloatingWalkway_60
+  - first:
+      213: 4743500148232918003
+    second: FloatingWalkway_61
+  - first:
+      213: -503017607502528685
+    second: FloatingWalkway_62
+  - first:
+      213: -669723264791389365
+    second: FloatingWalkway_63
+  - first:
+      213: 5238118278318311077
+    second: FloatingWalkway_64
+  - first:
+      213: -56494381929650648
+    second: FloatingWalkway_65
+  - first:
+      213: -1406757426220134121
+    second: FloatingWalkway_66
+  - first:
+      213: -4768812371027139735
+    second: FloatingWalkway_67
+  - first:
+      213: 2577787820910452132
+    second: FloatingWalkway_68
+  - first:
+      213: 1581113766713710698
+    second: FloatingWalkway_69
+  - first:
+      213: -5595190653272793624
+    second: FloatingWalkway_70
+  - first:
+      213: 2582843532045627016
+    second: FloatingWalkway_71
+  - first:
+      213: 6695496271620608700
+    second: FloatingWalkway_72
+  - first:
+      213: -7115815572159884681
+    second: FloatingWalkway_73
+  - first:
+      213: -7376473234897426905
+    second: FloatingWalkway_74
+  - first:
+      213: -5262504459447828401
+    second: FloatingWalkway_75
+  - first:
+      213: 1659386398100313477
+    second: FloatingWalkway_76
+  - first:
+      213: -3223957247930229980
+    second: FloatingWalkway_77
+  - first:
+      213: 6759197869527235915
+    second: FloatingWalkway_78
+  - first:
+      213: -9145771750160318117
+    second: FloatingWalkway_79
+  - first:
+      213: -6481109390393289843
+    second: FloatingWalkway_80
+  - first:
+      213: 7814251290542050632
+    second: FloatingWalkway_81
+  - first:
+      213: 8484973556615033899
+    second: FloatingWalkway_82
+  - first:
+      213: 5203126079108311282
+    second: FloatingWalkway_83
+  - first:
+      213: 8563810109091579848
+    second: FloatingWalkway_84
+  - first:
+      213: -893973575766466964
+    second: FloatingWalkway_85
+  - first:
+      213: -2970102393568159452
+    second: FloatingWalkway_86
+  - first:
+      213: -1206913729468866598
+    second: FloatingWalkway_87
+  - first:
+      213: -3391352030800487678
+    second: FloatingWalkway_88
+  - first:
+      213: -2247544626654847385
+    second: FloatingWalkway_89
+  - first:
+      213: 8872509957601909595
+    second: FloatingWalkway_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FloatingWalkway_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2157
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae2ede82ce26fd00800000000000000
+      internalID: 1006042979919343264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_1
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 659
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e456849afcff023b0800000000000000
+      internalID: -5539146274302302898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_2
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 662
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b27f39ab35c96fe0800000000000000
+      internalID: -1195207366056906063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 649
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af43b7bc2acc0eb0800000000000000
+      internalID: -4752201213373362269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_4
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 642
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5298ab9862da970800000000000000
+      internalID: 8767706422542149065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_5
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 609
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d721b8773fbd7ae0800000000000000
+      internalID: -1549872451776600109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_6
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 631
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c58332933f82340800000000000000
+      internalID: 4839385226339179630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_7
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 646
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfde1f0bf4520f1d0800000000000000
+      internalID: -3319111901170766340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_8
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 645
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717f0ba258ed25ee0800000000000000
+      internalID: -1273711081064171753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_9
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 560
+        width: 156
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4668b0eda33ec93d0800000000000000
+      internalID: -3198431793366989212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_10
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 647
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe013e40dc96e5bc0800000000000000
+      internalID: -3792477506928176913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_11
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 632
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5356bca0876e4eb60800000000000000
+      internalID: 7774592259999884597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_12
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 638
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bd6e20c06f76180800000000000000
+      internalID: -9122051988766926077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 626
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752c89a2e004e3bd0800000000000000
+      internalID: -2648609101258898857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_14
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 622
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34b310657cdc8210800000000000000
+      internalID: 1336685586103383103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_15
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 626
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302704251e9e571b0800000000000000
+      internalID: -5659360202764291581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_16
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 614
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d444caa01a17950800000000000000
+      internalID: 6445109608955792715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_17
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 628
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b425e7f5950e7f190800000000000000
+      internalID: -7928621944503643573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_18
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 610
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdb489cbc9840890800000000000000
+      internalID: -7492712371685376574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_19
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 618
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aa37932b52a2a90800000000000000
+      internalID: -7338011195448513986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_20
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 600
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c9e98c8eed97820800000000000000
+      internalID: 2916607325078723619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_21
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 594
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377d3628f8414bf30800000000000000
+      internalID: 4590316526797838195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_22
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 600
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ed50db2cfd6ad80800000000000000
+      internalID: -8239652440739815916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 567
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f091a0b80bb2e8d70800000000000000
+      internalID: 9047216738680838415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_24
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 593
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd8861477fd91600800000000000000
+      internalID: 439628141936807353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 601
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa23bb2c879d8b8e0800000000000000
+      internalID: -1677351748509158737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 604
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7324a0e6977086660800000000000000
+      internalID: 7379156207565161015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_27
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 574
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed29e9625fc1a8dc0800000000000000
+      internalID: -3636061909907762466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_28
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 610
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8641ced6fb0c17e0800000000000000
+      internalID: -1793545396673231218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_29
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 600
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bbc61e75c932d20800000000000000
+      internalID: 3252615257149717360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_30
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 583
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59599dbb8323a86b0800000000000000
+      internalID: -5293363192769440363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_31
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 578
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e704993800132790800000000000000
+      internalID: -7556178122285774877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_32
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 580
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3904d2a3ce0a06c70800000000000000
+      internalID: 8962340194916057235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_33
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 586
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3a415248d08cee0800000000000000
+      internalID: -1240726836131617862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 580
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e173c2d5ec0d97b0800000000000000
+      internalID: -5215998612202098202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_35
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 594
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b5f2e2e00ff2750800000000000000
+      internalID: 6282503948900195124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_36
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 594
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae49999db4c386c0800000000000000
+      internalID: -4142250913645900122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_37
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 580
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4921f45081da8c530800000000000000
+      internalID: 3875537798032200340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_38
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 588
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261598324bab75d20800000000000000
+      internalID: 3267285337533665634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_39
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 562
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab9638a9fb1e7c60800000000000000
+      internalID: 7817716762244717476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_40
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 592
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bd2d48301c11210800000000000000
+      internalID: 1302033988144257866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_41
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 581
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7e0629f846e2b10800000000000000
+      internalID: 1958613455751669722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_42
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 578
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeec48347601c420800000000000000
+      internalID: 2648405152101101286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 569
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5056ed7a2feb0b160800000000000000
+      internalID: 7039336166987818245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_44
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 578
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268ea5106cb53020800000000000000
+      internalID: 2320968303846000174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_45
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 578
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f640b9b524ea66d60800000000000000
+      internalID: 7883179797786592367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_46
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 554
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19960c07cb92778e0800000000000000
+      internalID: -1695840845359453807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_47
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 544
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c863752ad29bf4ac0800000000000000
+      internalID: -3868669949239675252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_48
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 554
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9134e099f388e70800000000000000
+      internalID: 9117607372213393894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_49
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 93
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1ee411025141c70800000000000000
+      internalID: 8940794387710796233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_50
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 118
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba57044ccc2b0c0800000000000000
+      internalID: -4561358329305781452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_51
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 100
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7268a2d8eaee220800000000000000
+      internalID: 2517141163073742808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_52
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce7c7331712105f0800000000000000
+      internalID: -792315289361678652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_53
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 120
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae95941878b4266c0800000000000000
+      internalID: -4151672861120439830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_54
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 108
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83c3f809542afc20800000000000000
+      internalID: 3240942846667375500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_55
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 128
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161108ddcf341b880800000000000000
+      internalID: -8597015460346588831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_56
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 116
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8977eb56fd6940120800000000000000
+      internalID: 2379192389387319192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_57
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de571b9d0344d1b0800000000000000
+      internalID: -5632803508218011946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_58
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 112
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19e9fe48d3d79000800000000000000
+      internalID: 42735647474706718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_59
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 114
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc72052d6a687150800000000000000
+      internalID: 5870559131282341053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_60
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 112
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3f52dbb7fbacc80800000000000000
+      internalID: -8301612424928824401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_61
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 95
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f39f6fa04c44d140800000000000000
+      internalID: 4743500148232918003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_62
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f7b0da62ce409f0800000000000000
+      internalID: -503017607502528685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_63
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b5b403d3aa4b6f0800000000000000
+      internalID: -669723264791389365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_64
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c4a642d881b840800000000000000
+      internalID: 5238118278318311077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 78
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8262741b8aa473ff0800000000000000
+      internalID: -56494381929650648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_66
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 59
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711910df2913a7ce0800000000000000
+      internalID: -1406757426220134121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_67
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 63
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96360703a66c1ddb0800000000000000
+      internalID: -4768812371027139735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_68
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad12bb8d5426c320800000000000000
+      internalID: 2577787820910452132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_69
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 63
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68537ef79e31f510800000000000000
+      internalID: 1581113766713710698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_70
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edd615deb3e952b0800000000000000
+      internalID: -5595190653272793624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_71
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 83
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eaef5028a18d320800000000000000
+      internalID: 2582843532045627016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_72
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 80
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb216e0826e2bec50800000000000000
+      internalID: 6695496271620608700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_73
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 63
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7729736307b8f3d90800000000000000
+      internalID: -7115815572159884681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_74
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 59
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72623c2dca081a990800000000000000
+      internalID: -7376473234897426905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_75
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4004b97314d7f6b0800000000000000
+      internalID: -5262504459447828401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 41
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58552e32323570710800000000000000
+      internalID: 1659386398100313477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 49
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b921ad6f33243d0800000000000000
+      internalID: -3223957247930229980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_78
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 50
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d7fbb86ae7dcd50800000000000000
+      internalID: 6759197869527235915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_79
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 31
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5144e2bc01b31180800000000000000
+      internalID: -9145771750160318117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_80
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 49
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83d82b09597e06a0800000000000000
+      internalID: -6481109390393289843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_81
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 47
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d8566a52cc17c60800000000000000
+      internalID: 7814251290542050632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_82
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b243f929e7ea0c570800000000000000
+      internalID: 8484973556615033899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 19
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f862d20a97353840800000000000000
+      internalID: 5203126079108311282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_84
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c78d44dbe3c8d670800000000000000
+      internalID: 8563810109091579848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_85
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 23
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e9ad1f4c7f793f0800000000000000
+      internalID: -893973575766466964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_86
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 17
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42915dcfb9318c6d0800000000000000
+      internalID: -2970102393568159452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_87
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf57788b5e204fe0800000000000000
+      internalID: -1206913729468866598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_88
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 18
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b56dfcb4f7fe0d0800000000000000
+      internalID: -3391352030800487678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_89
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e566fe11e1fc0e0800000000000000
+      internalID: -2247544626654847385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingWalkway_90
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b5af04ccc712b70800000000000000
+      internalID: 8872509957601909595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FloatingWalkway_0: 1006042979919343264
+      FloatingWalkway_1: -5539146274302302898
+      FloatingWalkway_10: -3792477506928176913
+      FloatingWalkway_11: 7774592259999884597
+      FloatingWalkway_12: -9122051988766926077
+      FloatingWalkway_13: -2648609101258898857
+      FloatingWalkway_14: 1336685586103383103
+      FloatingWalkway_15: -5659360202764291581
+      FloatingWalkway_16: 6445109608955792715
+      FloatingWalkway_17: -7928621944503643573
+      FloatingWalkway_18: -7492712371685376574
+      FloatingWalkway_19: -7338011195448513986
+      FloatingWalkway_2: -1195207366056906063
+      FloatingWalkway_20: 2916607325078723619
+      FloatingWalkway_21: 4590316526797838195
+      FloatingWalkway_22: -8239652440739815916
+      FloatingWalkway_23: 9047216738680838415
+      FloatingWalkway_24: 439628141936807353
+      FloatingWalkway_25: -1677351748509158737
+      FloatingWalkway_26: 7379156207565161015
+      FloatingWalkway_27: -3636061909907762466
+      FloatingWalkway_28: -1793545396673231218
+      FloatingWalkway_29: 3252615257149717360
+      FloatingWalkway_3: -4752201213373362269
+      FloatingWalkway_30: -5293363192769440363
+      FloatingWalkway_31: -7556178122285774877
+      FloatingWalkway_32: 8962340194916057235
+      FloatingWalkway_33: -1240726836131617862
+      FloatingWalkway_34: -5215998612202098202
+      FloatingWalkway_35: 6282503948900195124
+      FloatingWalkway_36: -4142250913645900122
+      FloatingWalkway_37: 3875537798032200340
+      FloatingWalkway_38: 3267285337533665634
+      FloatingWalkway_39: 7817716762244717476
+      FloatingWalkway_4: 8767706422542149065
+      FloatingWalkway_40: 1302033988144257866
+      FloatingWalkway_41: 1958613455751669722
+      FloatingWalkway_42: 2648405152101101286
+      FloatingWalkway_43: 7039336166987818245
+      FloatingWalkway_44: 2320968303846000174
+      FloatingWalkway_45: 7883179797786592367
+      FloatingWalkway_46: -1695840845359453807
+      FloatingWalkway_47: -3868669949239675252
+      FloatingWalkway_48: 9117607372213393894
+      FloatingWalkway_49: 8940794387710796233
+      FloatingWalkway_5: -1549872451776600109
+      FloatingWalkway_50: -4561358329305781452
+      FloatingWalkway_51: 2517141163073742808
+      FloatingWalkway_52: -792315289361678652
+      FloatingWalkway_53: -4151672861120439830
+      FloatingWalkway_54: 3240942846667375500
+      FloatingWalkway_55: -8597015460346588831
+      FloatingWalkway_56: 2379192389387319192
+      FloatingWalkway_57: -5632803508218011946
+      FloatingWalkway_58: 42735647474706718
+      FloatingWalkway_59: 5870559131282341053
+      FloatingWalkway_6: 4839385226339179630
+      FloatingWalkway_60: -8301612424928824401
+      FloatingWalkway_61: 4743500148232918003
+      FloatingWalkway_62: -503017607502528685
+      FloatingWalkway_63: -669723264791389365
+      FloatingWalkway_64: 5238118278318311077
+      FloatingWalkway_65: -56494381929650648
+      FloatingWalkway_66: -1406757426220134121
+      FloatingWalkway_67: -4768812371027139735
+      FloatingWalkway_68: 2577787820910452132
+      FloatingWalkway_69: 1581113766713710698
+      FloatingWalkway_7: -3319111901170766340
+      FloatingWalkway_70: -5595190653272793624
+      FloatingWalkway_71: 2582843532045627016
+      FloatingWalkway_72: 6695496271620608700
+      FloatingWalkway_73: -7115815572159884681
+      FloatingWalkway_74: -7376473234897426905
+      FloatingWalkway_75: -5262504459447828401
+      FloatingWalkway_76: 1659386398100313477
+      FloatingWalkway_77: -3223957247930229980
+      FloatingWalkway_78: 6759197869527235915
+      FloatingWalkway_79: -9145771750160318117
+      FloatingWalkway_8: -1273711081064171753
+      FloatingWalkway_80: -6481109390393289843
+      FloatingWalkway_81: 7814251290542050632
+      FloatingWalkway_82: 8484973556615033899
+      FloatingWalkway_83: 5203126079108311282
+      FloatingWalkway_84: 8563810109091579848
+      FloatingWalkway_85: -893973575766466964
+      FloatingWalkway_86: -2970102393568159452
+      FloatingWalkway_87: -1206913729468866598
+      FloatingWalkway_88: -3391352030800487678
+      FloatingWalkway_89: -2247544626654847385
+      FloatingWalkway_9: -3198431793366989212
+      FloatingWalkway_90: 8872509957601909595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
