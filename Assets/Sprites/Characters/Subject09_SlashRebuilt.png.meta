@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 33bcc34066a8e1e4192b545c8ea0ae92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -638198513601243451
+    second: Subject09_SlashRebuilt_0
+  - first:
+      213: -3451158009073850048
+    second: Subject09_SlashRebuilt_1
+  - first:
+      213: 1773035261973514330
+    second: Subject09_SlashRebuilt_2
+  - first:
+      213: -7271969267856862551
+    second: Subject09_SlashRebuilt_3
+  - first:
+      213: 6912821994109286878
+    second: Subject09_SlashRebuilt_4
+  - first:
+      213: 4716774146804325584
+    second: Subject09_SlashRebuilt_5
+  - first:
+      213: 4007939704854992803
+    second: Subject09_SlashRebuilt_6
+  - first:
+      213: 2110801501424636215
+    second: Subject09_SlashRebuilt_7
+  - first:
+      213: 5368322036739914665
+    second: Subject09_SlashRebuilt_8
+  - first:
+      213: 3222798472497691532
+    second: Subject09_SlashRebuilt_9
+  - first:
+      213: 7772032743555260837
+    second: Subject09_SlashRebuilt_10
+  - first:
+      213: 4047346022772582754
+    second: Subject09_SlashRebuilt_11
+  - first:
+      213: 2702413582565464648
+    second: Subject09_SlashRebuilt_12
+  - first:
+      213: -3935080105464515590
+    second: Subject09_SlashRebuilt_13
+  - first:
+      213: 1134284596612817048
+    second: Subject09_SlashRebuilt_14
+  - first:
+      213: 8712141350148571764
+    second: Subject09_SlashRebuilt_15
+  - first:
+      213: -7393811473997632446
+    second: Subject09_SlashRebuilt_16
+  - first:
+      213: 2459841257139671048
+    second: Subject09_SlashRebuilt_17
+  - first:
+      213: -1269513918099147778
+    second: Subject09_SlashRebuilt_18
+  - first:
+      213: -4963762840903250732
+    second: Subject09_SlashRebuilt_19
+  - first:
+      213: -6767009305874142706
+    second: Subject09_SlashRebuilt_20
+  - first:
+      213: -7136123306787643665
+    second: Subject09_SlashRebuilt_21
+  - first:
+      213: 679511625595145818
+    second: Subject09_SlashRebuilt_22
+  - first:
+      213: -3627977412087850158
+    second: Subject09_SlashRebuilt_23
+  - first:
+      213: -3639220454333952327
+    second: Subject09_SlashRebuilt_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Subject09_SlashRebuilt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 622
+        width: 632.5
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c69d9c45d9a427f0800000000000000
+      internalID: -638198513601243451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_SlashRebuilt_1
+      rect:
+        serializedVersion: 2
+        x: 632.5
+        y: 622
+        width: 632.5
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a86563160b10d0800000000000000
+      internalID: -3451158009073850048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_SlashRebuilt_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 632.5
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a584c244d261b9810800000000000000
+      internalID: 1773035261973514330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subject09_SlashRebuilt_3
+      rect:
+        serializedVersion: 2
+        x: 632.5
+        y: 0
+        width: 632.5
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a295dbba76c41b90800000000000000
+      internalID: -7271969267856862551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Subject09_SlashRebuilt_0: -638198513601243451
+      Subject09_SlashRebuilt_1: -3451158009073850048
+      Subject09_SlashRebuilt_10: 7772032743555260837
+      Subject09_SlashRebuilt_11: 4047346022772582754
+      Subject09_SlashRebuilt_12: 2702413582565464648
+      Subject09_SlashRebuilt_13: -3935080105464515590
+      Subject09_SlashRebuilt_14: 1134284596612817048
+      Subject09_SlashRebuilt_15: 8712141350148571764
+      Subject09_SlashRebuilt_16: -7393811473997632446
+      Subject09_SlashRebuilt_17: 2459841257139671048
+      Subject09_SlashRebuilt_18: -1269513918099147778
+      Subject09_SlashRebuilt_19: -4963762840903250732
+      Subject09_SlashRebuilt_2: 1773035261973514330
+      Subject09_SlashRebuilt_20: -6767009305874142706
+      Subject09_SlashRebuilt_21: -7136123306787643665
+      Subject09_SlashRebuilt_22: 679511625595145818
+      Subject09_SlashRebuilt_23: -3627977412087850158
+      Subject09_SlashRebuilt_24: -3639220454333952327
+      Subject09_SlashRebuilt_3: -7271969267856862551
+      Subject09_SlashRebuilt_4: 6912821994109286878
+      Subject09_SlashRebuilt_5: 4716774146804325584
+      Subject09_SlashRebuilt_6: 4007939704854992803
+      Subject09_SlashRebuilt_7: 2110801501424636215
+      Subject09_SlashRebuilt_8: 5368322036739914665
+      Subject09_SlashRebuilt_9: 3222798472497691532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
