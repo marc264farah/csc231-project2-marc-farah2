@@ -6,7 +6,7 @@ namespace NeonVeil
     public class Subject09Presentation : MonoBehaviour
     {
         // These values match the Pose parameter in the Subject 09 Animator Controller.
-        public enum Pose { Idle, Run, Jump, Fall, Hurt, Death, Attack, Phase, Land }
+        public enum Pose { Idle, Run, Jump, Fall, Hurt, Death, Attack, Phase }
 
         [SerializeField] private Animator animator;
         [SerializeField] private SpriteRenderer armor;
@@ -66,7 +66,6 @@ namespace NeonVeil
         {
             jumpInProgress = true;
             jumpTakeoffHeight = takeoffHeight;
-            if (actionPose == Pose.Land) actionEnds = 0f;
         }
 
         public void SetMovement(float horizontal, bool grounded, float height, float verticalSpeed, bool groundFarBelow)
@@ -79,8 +78,7 @@ namespace NeonVeil
             }
             else
             {
-                if (actionPose == Pose.Land) actionEnds = 0f;
-                // The ground probe keeps short drops in the movement pose; open shafts use Fall.
+                    // The ground probe keeps short drops in the movement pose; open shafts use Fall.
                 if (jumpInProgress && groundFarBelow && verticalSpeed < -0.25f && height < jumpTakeoffHeight - 0.4f)
                     jumpInProgress = false;
                 if (jumpInProgress)
@@ -103,9 +101,9 @@ namespace NeonVeil
 
             if (armor != null)
             {
-                armor.transform.localScale = pose == Pose.Idle || pose == Pose.Land
+                armor.transform.localScale = pose == Pose.Idle
                     ? armorScale * 1.09f : armorScale;
-                armor.transform.localPosition = pose == Pose.Idle || pose == Pose.Land
+                armor.transform.localPosition = pose == Pose.Idle
                     ? armorPosition + Vector3.up * 0.09f : armorPosition;
                 armor.color = armorColor;
                 if (pose == Pose.Hurt) armor.color = Color.Lerp(armorColor, HurtColor, 0.72f);
@@ -161,8 +159,6 @@ namespace NeonVeil
 
         public void PlayLanding(Vector2 position)
         {
-            if (!dead && Time.time >= actionEnds)
-                ShowAction(Pose.Land, 0.22f);
             Sprite sprite = landingArt != null ? landingArt : effectSquare;
             if (sprite == null) return;
             SpriteRenderer burst = CreateEffect("Painted Landing Burst", sprite);
