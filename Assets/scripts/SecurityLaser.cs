@@ -12,7 +12,13 @@ namespace NeonVeil
         [SerializeField, Min(0.1f)] private float activeTime = 1.25f;
 
         private float cycleTime;
+        private Vector3 beamScale;
         public bool IsActive => cycleTime >= safeTime + warningTime;
+
+        private void Awake()
+        {
+            beamScale = beam.transform.localScale;
+        }
 
         private void Start()
         {
@@ -41,9 +47,19 @@ namespace NeonVeil
 
         private void UpdateBeam()
         {
-            beam.color = IsActive ? new Color(1f, 0.08f, 0.32f, 0.92f) :
-                cycleTime >= safeTime ? new Color(1f, 0.64f, 0.18f, 0.48f) :
-                new Color(0.21f, 0.47f, 0.59f, 0.12f);
+            float offset = transform.position.x * 0.37f;
+            float flicker = Mathf.Sin(Time.time * 18f + offset) * 0.5f +
+                Mathf.Sin(Time.time * 31f + offset) * 0.25f;
+            float width = 1f + flicker * (IsActive ? 0.14f : 0.08f);
+            beam.transform.localScale = new Vector3(
+                beamScale.x * width, beamScale.y, beamScale.z);
+
+            if (IsActive)
+                beam.color = new Color(1f, 0.12f, 0.30f, 0.95f + flicker * 0.05f);
+            else if (cycleTime >= safeTime)
+                beam.color = new Color(1f, 0.75f, 0.16f, 0.78f + flicker * 0.08f);
+            else
+                beam.color = new Color(0.28f, 0.72f, 0.94f, 0.20f + flicker * 0.04f);
         }
     }
 }
