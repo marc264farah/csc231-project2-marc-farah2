@@ -101,10 +101,21 @@ namespace NeonVeil
 
             if (armor != null)
             {
-                armor.transform.localScale = pose == Pose.Idle
-                    ? armorScale * 1.09f : armorScale;
-                armor.transform.localPosition = pose == Pose.Idle
-                    ? armorPosition + Vector3.up * 0.09f : armorPosition;
+                float visualScale = 1f;
+                float visualHeight = 0f;
+                if (pose == Pose.Idle)
+                {
+                    visualScale = 1.16f;
+                    visualHeight = 0.06f;
+                }
+                else if (pose == Pose.Jump)
+                {
+                    visualScale = 1.25f;
+                    visualHeight = 0.27f;
+                }
+
+                armor.transform.localScale = armorScale * visualScale;
+                armor.transform.localPosition = armorPosition + Vector3.up * visualHeight;
                 armor.color = armorColor;
                 if (pose == Pose.Hurt) armor.color = Color.Lerp(armorColor, HurtColor, 0.72f);
                 if (pose == Pose.Death) armor.color = Color.Lerp(armorColor, Color.black, 0.58f);
