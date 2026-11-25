@@ -228,12 +228,12 @@ namespace NeonVeil
                 return;
 
             CurrentHealth = Mathf.Max(0, CurrentHealth - damage);
-            NeonAudio.Instance?.Play(NeonAudio.Cue.Hurt);
             if (IsDead)
             {
                 Die();
                 return;
             }
+            NeonAudio.Instance?.Play(NeonAudio.Cue.Hurt);
 
             invulnerableUntil = Time.time + immunityTime;
             knockbackUntil = Time.time + 0.14f;
@@ -251,6 +251,7 @@ namespace NeonVeil
             ClearInput();
             combat.ResetCombat();
             presentation?.PlayDeath();
+            NeonAudio.Instance?.Play(NeonAudio.Cue.Death);
             game.ShowDeath();
         }
 

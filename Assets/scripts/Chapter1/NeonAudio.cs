@@ -4,7 +4,7 @@ namespace NeonVeil
 {
     public class NeonAudio : MonoBehaviour
     {
-        public enum Cue { Jump, Land, Collect, Hurt, Win, Attack, Phase }
+        public enum Cue { Jump, Land, Collect, Hurt, Win, Attack, Phase, Death }
 
         [SerializeField] private AudioSource music;
         [SerializeField] private AudioSource effects;
@@ -12,6 +12,7 @@ namespace NeonVeil
         [SerializeField] private AudioClip land;
         [SerializeField] private AudioClip collect;
         [SerializeField] private AudioClip hurt;
+        [SerializeField] private AudioClip death;
         [SerializeField] private AudioClip win;
         [SerializeField] private AudioClip attack;
         [SerializeField] private AudioClip phase;
@@ -55,6 +56,7 @@ namespace NeonVeil
                 Cue.Land => land,
                 Cue.Collect => collect,
                 Cue.Hurt => hurt,
+                Cue.Death => death,
                 Cue.Win => win,
                 Cue.Attack => attack,
                 Cue.Phase => phase,
@@ -63,7 +65,7 @@ namespace NeonVeil
             if (cue == Cue.Win && music != null)
                 music.volume = Volume * 0.18f;
 
-            if (effects == null || clip == null || Muted) return;
+            if (effects == null || clip == null) return;
             effects.PlayOneShot(clip);
             if ((cue == Cue.Land || cue == Cue.Hurt) && metalImpact != null)
                 effects.PlayOneShot(metalImpact, cue == Cue.Land ? 0.32f : 0.26f);
@@ -95,7 +97,7 @@ namespace NeonVeil
             if (effects != null)
             {
                 effects.volume = Volume * 0.80f;
-                effects.mute = Muted;
+                effects.mute = false;
             }
         }
     }

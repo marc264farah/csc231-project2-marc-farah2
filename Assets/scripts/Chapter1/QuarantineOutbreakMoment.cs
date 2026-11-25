@@ -47,7 +47,7 @@ namespace NeonVeil
             }
 
             if (alarm != null && NeonAudio.Instance != null)
-                alarm.volume = NeonAudio.Instance.Muted ? 0f : NeonAudio.Instance.Volume * 0.45f;
+                alarm.volume = NeonAudio.Instance.Volume * 0.45f;
 
             if (Time.time < warningEndsAt)
             {
@@ -93,7 +93,7 @@ namespace NeonVeil
             if (alarm != null)
             {
                 if (NeonAudio.Instance != null)
-                    alarm.volume = NeonAudio.Instance.Muted ? 0f : NeonAudio.Instance.Volume * 0.45f;
+                    alarm.volume = NeonAudio.Instance.Volume * 0.45f;
                 alarm.Play();
             }
         }

@@ -34522,6 +34522,7 @@ MonoBehaviour:
   land: {fileID: 8300000, guid: de348ff40190fb5498ea926c5ed30d9e, type: 3}
   collect: {fileID: 8300000, guid: 51c8b82b2e5369049958c6fbb4e8b2e0, type: 3}
   hurt: {fileID: 8300000, guid: d131671edbf425a47b4f779dfbd1c6a2, type: 3}
+  death: {fileID: 8300000, guid: 3669d1ee0452a804c97e073ca54dc021, type: 3}
   win: {fileID: 8300000, guid: ce00081f4528ce04b89733826f6bcaf5, type: 3}
   attack: {fileID: 8300000, guid: d9da13b9d641426499502c0ebf59b033, type: 3}
   phase: {fileID: 8300000, guid: 3ef89ba88ebe1114f84e354511a405e5, type: 3}
